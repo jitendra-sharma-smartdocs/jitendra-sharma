@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently working on **Angular and Springboot**
 
-- 👯 I’m looking to collaborate with **software developers and programmers**
-
 - 💬 Ask me about **Java, Springboot and Angular**
   
 - ⚡ Fun fact **I'm very helpfull Person**
